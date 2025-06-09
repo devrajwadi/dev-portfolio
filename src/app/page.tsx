@@ -104,7 +104,9 @@ export default function Home() {
                 </Link>{" "}
                 &nbsp;|&nbsp;
                 <Link
-                  href="#"
+                  href="https://movies-watchlist-ten.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="hover:underline focus:outline-none focus:ring-2 focus:ring-blue-500 rounded"
                 >
                   Live Demo
